@@ -5,7 +5,7 @@ Principe
 ---
 A chaque caractère, le script génère un alphabet de subsitution (principe qui s'inspire de la machine Enigma)
 
-Pour l'instant il se contente d'effectuer une rotation d'un caractère vers la droite. Ce chiffrement n'a rien à avoir avec le ROT.
+Pour l'instant il se contente d'effectuer une rotation d'un caractère vers la droite. Ce chiffrement n'a rien à voir avec le ROT.
 
 
 Exemple
