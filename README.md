@@ -32,7 +32,7 @@ y étant la 25ème lettre on substitue 'y' par 'w'
 xyzabcdefghijklmnopqrstuvw
 a étant la 1ère lettre on substitue 'a' par 'x'
 
-#lettre y
+#lettre k
 wxyzabcdefghijklmnopqrstuv
 k étant la 11ème lettre on substitue 'k' par 'g'
 
